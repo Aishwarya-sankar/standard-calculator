@@ -25,7 +25,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-Developed by: Aishwarya s
+Developed by: Aishwarya S
 
 RegisterNumber:212222100003
 ```
